@@ -11,6 +11,7 @@ Random collections of my interested research paper / projects
 4. [Purdue Sec&Sys Seminar](https://www.cs.purdue.edu/homes/pfonseca/seminar/)
 5. [Reliable Computer Systems](https://www.cs.purdue.edu/homes/pfonseca/teaching/cs590/20spring/)
 5. [UMass System Lunch](https://systems-lunch.org/)
+
 ## Misc
 1. [System conference deadline](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html)
 2. [Doing a System Phd](https://www.cl.cam.ac.uk/research/srg/netos/eurosys11dw/keynote/StevenHand.pdf)
@@ -23,3 +24,5 @@ Random collections of my interested research paper / projects
 9. [The science of scientific reading](https://www.usenix.org/sites/default/files/gopen_and_swan_science_of_scientific_writing.pdf)
 10. [How to read a paper](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf)
 11. [SOSP/OSDI Hall of Frame](https://www.cs.utexas.edu/~vijay/hall.html)
+12. [Acemap Ranking](https://www.acemap.info/ranking)
+13. [Interview by WukLab](https://www.youtube.com/channel/UCTaQ0XWbc3VqgI1Wy3Mfotw)
