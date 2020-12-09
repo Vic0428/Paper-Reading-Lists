@@ -1,11 +1,11 @@
 # Paper-Reading-Lists
-Random collections of my interested research paper / projects
+Random collections of my interested research papers / projects
 
 ## Reading Lists
 1. [System Reading List at Umich](https://github.com/mosharaf/eecs598)
-2. [SysNet Readling List at UCSD](http://www.sysnet.ucsd.edu/classes/cse294/sp20/)
+2. [SysNet Reading List at UCSD](http://www.sysnet.ucsd.edu/classes/cse294/sp20/)
 3. [Big Data Systems at UW-Madison](http://pages.cs.wisc.edu/~shivaram/cs744-fa20/)
-4. [System Readling List at NYU](https://github.com/fruffy/nyu-systems-seminar)
+4. [System Reading List at NYU](https://github.com/fruffy/nyu-systems-seminar)
 
 ## Seminars
 1. [System Seminar at Brown](https://www.youtube.com/channel/UC33M2YIhrxJZBFiMXDESl9Q)
