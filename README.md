@@ -6,6 +6,7 @@ Random collections of my interested research papers / projects
 2. [SysNet Reading List at UCSD](http://www.sysnet.ucsd.edu/classes/cse294/sp20/)
 3. [Big Data Systems at UW-Madison](http://pages.cs.wisc.edu/~shivaram/cs744-fa20/)
 4. [System Reading List at NYU](https://github.com/fruffy/nyu-systems-seminar)
+5. [UW Lecture Series](https://www.youtube.com/c/uwcse/playlists)
 
 ## Seminars
 1. [System Seminar at Brown](https://www.youtube.com/channel/UC33M2YIhrxJZBFiMXDESl9Q)
@@ -30,3 +31,6 @@ Random collections of my interested research papers / projects
 12. [Acemap Ranking](https://www.acemap.info/ranking)
 13. [Interview by WukLab](https://www.youtube.com/channel/UCTaQ0XWbc3VqgI1Wy3Mfotw)
 14. [How to Give a Bad Talk](https://people.eecs.berkeley.edu/~pattrsn/talks/BadTalk.pdf)
+15. [Phd School in Pictures](http://matt.might.net/articles/phd-school-in-pictures/)
+16. [Phd or No Phd](https://medium.com/open-sourced-thoughts/phd-or-no-phd-d3dc89bc8e57)
+17. [What to ask when applying for graduate school](http://transientneha.blogspot.com/2015/02/what-to-ask-when-applying-to-grad.html)
