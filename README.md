@@ -34,3 +34,5 @@ Random collections of my interested research papers / projects
 15. [Phd School in Pictures](http://matt.might.net/articles/phd-school-in-pictures/)
 16. [Phd or No Phd](https://medium.com/open-sourced-thoughts/phd-or-no-phd-d3dc89bc8e57)
 17. [What to ask when applying for graduate school](http://transientneha.blogspot.com/2015/02/what-to-ask-when-applying-to-grad.html)
+18. [Applying CS Phd Program](http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
+19. 
