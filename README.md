@@ -35,4 +35,4 @@ Random collections of my interested research papers / projects
 16. [Phd or No Phd](https://medium.com/open-sourced-thoughts/phd-or-no-phd-d3dc89bc8e57)
 17. [What to ask when applying for graduate school](http://transientneha.blogspot.com/2015/02/what-to-ask-when-applying-to-grad.html)
 18. [Applying CS Phd Program](http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
-19. 
+19. [10 easy ways to fail a Ph.D.](http://matt.might.net/articles/ways-to-fail-a-phd/)
