@@ -15,6 +15,7 @@ Random collections of my interested research papers / projects
 4. [Purdue Sec&Sys Seminar](https://www.cs.purdue.edu/homes/pfonseca/seminar/)
 5. [Reliable Computer Systems](https://www.cs.purdue.edu/homes/pfonseca/teaching/cs590/20spring/)
 5. [UMass System Lunch](https://systems-lunch.org/)
+7. [Berkeley Programming Seminar](http://ps.berkeley.edu/seminar.html)
 
 ## Misc
 1. [System conference deadline](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html)
@@ -36,3 +37,7 @@ Random collections of my interested research papers / projects
 17. [What to ask when applying for graduate school](http://transientneha.blogspot.com/2015/02/what-to-ask-when-applying-to-grad.html)
 18. [Applying CS Phd Program](http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
 19. [10 easy ways to fail a Ph.D.](http://matt.might.net/articles/ways-to-fail-a-phd/)
+20. [Managing Your Advisor](https://medium.com/great-research/managing-your-advisor-bb9060f4f8ce)
+21. [Suggestions from Prof. Nick Feamster](https://feamster.medium.com/)
+22. [Picking advisors](http://jxyzabc.blogspot.com/2009/02/some-notes-on-picking-grad.html)
+23. [Project Management for PHD students](https://rachitnigam.com/post/project-management/)
