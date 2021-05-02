@@ -16,6 +16,7 @@ Random collections of my interested research papers / projects
 5. [Reliable Computer Systems](https://www.cs.purdue.edu/homes/pfonseca/teaching/cs590/20spring/)
 5. [UMass System Lunch](https://systems-lunch.org/)
 7. [Berkeley Programming Seminar](http://ps.berkeley.edu/seminar.html)
+8. [The Networking Channel](https://networkingchannel.eu/)
 
 ## Misc
 1. [System conference deadline](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html)
