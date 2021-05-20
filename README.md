@@ -21,8 +21,6 @@ Random collections of my interested research papers / projects
 7. [Berkeley Programming Seminar](http://ps.berkeley.edu/seminar.html)
 8. [The Networking Channel](https://networkingchannel.eu/)
 
-## Writing reviews for systems conferences
-1. [Advice from ETHz Prof. Timothy Roscoe](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf)
 
 ## Misc
 
